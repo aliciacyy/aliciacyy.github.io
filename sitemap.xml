@@ -8,6 +8,7 @@
 <url> <loc>https://aliciacyy.github.io/blog/2017/09/25/testing-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://aliciacyy.github.io/blog/2017/04/10/blog-post-two.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://aliciacyy.github.io/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://aliciacyy.github.io/docs/docusaurus.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/docusaurus.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/imagerecommender.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/imagerecommender.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/mhxx.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/mhxx.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/mikuscores.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/mikuscores.html" /> </url>
