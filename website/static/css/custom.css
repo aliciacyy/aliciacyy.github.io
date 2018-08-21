@@ -1,0 +1,114 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+  h2 {
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 737px) {
+  .introduction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+:root {
+    --dark-pink: #AD1457;
+}
+
+.navigationSlider .slidingNav ul {
+  background: #AD1457;
+}
+
+.fixedHeaderContainer {
+  background-color: var(--dark-pink);
+}
+
+.mainContainer.indexContainer {
+  padding: 0px;
+}
+
+.introductionBody {
+  background: #FCE4EC;
+}
+
+.introduction {
+  margin: 0px auto;
+  max-width: 1400px;
+  padding: 10px 10px 60px 10px;
+}
+
+.introductionText {
+  flex-grow: 2;
+}
+
+.introductionTextBody {
+  font-size: 20px;
+  padding-right: 30px;
+}
+
+.imageContainer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+body {
+  background: #FCE4EC;
+}
+
+.homeContainer {
+  background-image: url("../img/banner.jpg");
+  background-size: cover;
+  text-align: left;
+}
+
+.projectTitle {
+  font-size: 500%;
+  color: white;
+  line-height: initial;
+}
+
+.projectSubtitle {
+  font-size: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.navigationSlider .slidingNav ul li a:focus, .navigationSlider .slidingNav ul li a:hover, .navigationSlider
+.slidingNav ul li.siteNavItemActive a, .navigationSlider .slidingNav ul li.siteNavGroupActive a {
+  background-color: transparent;
+}
+
+.homeContainer .homeWrapper {
+    padding: 5em 10px;
+}
+
+a, .toc .toggleNav ul li.navListItemActive a, .toc .toggleNav ul li a:hover, .toc .toggleNav ul li a:focus {
+  color: #ad1457;
+}
+a:hover {
+  color: #f1b6d0;
+}
+
+.button {
+  border: 1px solid #c02c6d;
+  color: #c02c6d;
+}
+
+.button:hover {
+  background: #c02c6d;
+}
