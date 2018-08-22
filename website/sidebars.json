@@ -9,6 +9,6 @@
   },
   "projects": {
     "Projects": ["projects", "docusaurus", "mikuscores", "mhxx", "rpgmaker", "runefactory",
-      "imagerecommender", "pokeymon"]
+      "recipefinder", "imagerecommender", "pokeymon"]
   }
 }

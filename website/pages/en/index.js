@@ -202,11 +202,10 @@ const Introduction = props => (
         <h1>About myself</h1>
         <div className="introductionTextBody">
           Just a simple software engineer from Singapore who is still in the early stages of her career.<br/>
-          I like learning new stuff and improving my tech skills through work or starting my own projects randomly.<br/>
-          Feel free to check out my personal projects <u><a href="/docs/projects.html">here</a></u>.<br/><br/>
+          I like learning new stuff and improving my programming skills through work or starting my own projects.<br/><br/>
 
           My two other passions in life are gaming and speed-solving 3x3 cubes.<br/>
-          Please feel free to contact me about new opportunites and any other stuff in general.
+          Feel free to contact me about new opportunites and any other stuff in general.
         </div>
       </div>
       <div className="imageContainer">
@@ -215,6 +214,32 @@ const Introduction = props => (
     </div>
   </div>
 );
+
+const Projects = props => (
+  <div className="projectShowcase">
+    <div className="projectShowcaseBody">
+      <h1>Projects</h1>
+      <div className="projectShowcaseCards">
+        <ProjectCard title="Rune Factory 4 Helper" image="/img/rf.jpg" link="/docs/runefactory.html"/>
+        <ProjectCard title="Miku Scores" image="/img/miku.jpg" link="mikuscores.md" link="/docs/mikuscores.html"/>
+        <ProjectCard title="View More" image="/img/more.jpg" link="/docs/projects.html"/>
+      </div>
+    </div>
+  </div>
+);
+
+class ProjectCard extends React.Component {
+  render() {
+    return (
+      <a className="projectCard" href={this.props.link}>
+        <img className="projectCardImage" src={this.props.image}/>
+        <div className="projectCardInfo">
+          <div className="projectCardTitle"> {this.props.title}</div>
+        </div>
+      </a>
+    );
+  }
+}
 
 class Index extends React.Component {
   render() {
@@ -225,6 +250,7 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer indexContainer">
           <Introduction />
+          <Projects />
         </div>
       </div>
     );
