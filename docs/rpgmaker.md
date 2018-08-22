@@ -18,17 +18,17 @@ Though this project did not involve any programming, it was an interesting proje
 
 ## Details
 
-![pineday3](/img/pineday3.jpg)
+![pineday3](/img/pineday3.JPG)
 In this game, the player will explore the map and gain enough levels to be able to defeat the final boss.
 
-![pienday5](/img/pineday5.jpg)
+![pineday5](/img/pineday5.JPG)
 This program makes it quite simple to create games through their user interface. Creating map layouts is as simple as dragging and dropping, but the challenge was more on how to create a map that is not too boring and straightforward.
 
-![pineday6](/img/pineday6.jpg)
+![pineday6](/img/pineday6.JPG)
 The program also allowed me to make my own custom cutscenes in the form of putting the actions in a sequence while allowing loops, branches, etc.
 
-![pineday2](/img/pineday2.jpg)
+![pineday2](/img/pineday2.JPG)
 An example of a cutscene with different dialog options.
 
-![pineday4](/img/pineday4.jpg)
+![pineday4](/img/pineday4.JPG)
 The battle system is also included in RPG Marker and all the values can be customized. For example, I introduced "Bowling Balls" as an enemy type.
