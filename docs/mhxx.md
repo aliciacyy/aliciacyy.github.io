@@ -22,6 +22,7 @@ My friend helped to get the data from Kiranico and then stored it in JSON files,
 
 The app has 2 pages - one for the list of quests and one for the list of food skills.
 
+### Quests
 ![mhxx1](/img/mhxx1.jpg)
 Quests belong in different levels of difficulty, so the first list is to pick the rank.
 
@@ -31,6 +32,7 @@ The next list shows the list of all the quests which are in that rank. Quests wi
 ![mhxx3](/img/mhxx3.jpg)
 Clicking into the quest name will show more details of the quest. Both Japanese and English text are included to help us understand the details of the quest.
 
+### Food Skills
 ![mhxx4](/img/mhxx4.jpg)
 I decided to work on the food skills page next because it was quite annoying not knowing what are the food skills that I will be getting.
 

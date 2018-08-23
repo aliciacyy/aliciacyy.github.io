@@ -60,7 +60,7 @@ const ProjectTitle = props => (
   <h2 className="projectTitle">
     Hi, I am Alicia.
     <div className="projectSubtitle">
-      <span> > Software Engineer</span>
+      <span> > Software engineer</span>
       <span> > Lifelong learner </span>
       <span> > Singapore</span>
     </div>

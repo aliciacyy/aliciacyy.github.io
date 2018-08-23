@@ -2,7 +2,7 @@
 id: docusaurus
 title: Docusaurus Page
 ---
-Generating my profile page using a static site generator.
+Generating my website using a static site generator.
 
 ## Period
 August 2018
