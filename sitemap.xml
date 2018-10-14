@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://aliciacyy.github.io/cubing.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/en/cubing.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/help.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/en/help.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/en/index.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/en/users.html" /> </url>
@@ -10,6 +11,7 @@
 <url> <loc>https://aliciacyy.github.io/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://aliciacyy.github.io/docs/docusaurus.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/docusaurus.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/imagerecommender.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/imagerecommender.html" /> </url>
+<url> <loc>https://aliciacyy.github.io/docs/mhstories.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/mhstories.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/mhxx.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/mhxx.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/mikuscores.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/mikuscores.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/old/doc1.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/old/doc1.html" /> </url>
@@ -19,6 +21,5 @@
 <url> <loc>https://aliciacyy.github.io/docs/pokeymon.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/pokeymon.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/projects.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/projects.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/recipefinder.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/recipefinder.html" /> </url>
-<url> <loc>https://aliciacyy.github.io/docs/rpgmaker.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/rpgmaker.html" /> </url>
 <url> <loc>https://aliciacyy.github.io/docs/runefactory.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://aliciacyy.github.io/docs/runefactory.html" /> </url>
 </urlset>
