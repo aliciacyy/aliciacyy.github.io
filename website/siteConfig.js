@@ -40,7 +40,7 @@ const siteConfig = {
   headerLinks: [
     {href: '/', label: 'About'},
     {doc: 'projects', label: 'Projects'},
-    {page: 'help', label: 'Contact'}
+    {page: 'cubing', label: 'Cubing'}
   ],
 
   // If you have users set above, you add it here:
@@ -87,7 +87,8 @@ const siteConfig = {
   onPageNav: 'separate',
 
   /* Open Graph and Twitter card images */
-  ogImage: 'img/docusaurus.png',
+  // ogImage: 'img/docusaurus.png',
+  ogImage: 'img/webthumb.jpg',
   twitterImage: 'img/docusaurus.png',
 
   // You may provide arbitrary config keys to be used as needed by your

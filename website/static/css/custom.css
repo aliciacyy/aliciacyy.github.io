@@ -9,6 +9,9 @@
     margin-top: 30px;
     display: block;
   }
+  .projectShowcase {
+    display: block !important;
+  }
 }
 
 @media only screen and (min-width: 737px) {
@@ -36,6 +39,7 @@
 }
 
 @media only screen and (min-width: 1500px) {
+  
 }
 
 :root {
@@ -84,7 +88,7 @@ body {
 }
 
 .homeContainer {
-  background-image: url("../img/banner.jpg");
+  background-image: url("../img/korea2.jpg");
   background-size: cover;
   text-align: left;
 }
@@ -93,6 +97,7 @@ body {
   font-size: 500%;
   color: white;
   line-height: initial;
+  text-shadow: 2px 2px 2px #000000;
 }
 
 .projectSubtitle {
@@ -128,12 +133,30 @@ a:hover {
 
 .projectShowcase {
   background: #F8BBD0;
+  display: flex;
+  justify-content: space-around;
 }
 
 .projectShowcaseBody {
   margin: 0px auto;
   max-width: 1400px;
   padding: 10px 10px 60px 10px;
+}
+
+.pageCard {
+  width: 100%;
+  height: 400px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pageCardTitle {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  text-shadow: 2px 2px 2px #000000;
 }
 
 .projectCard {

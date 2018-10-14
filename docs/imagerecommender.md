@@ -42,5 +42,5 @@ Given a tag, the program will find the top 10 other different tags tagged by oth
 This function is used to look at how the tag with the highest correlation for a given tag would differ for different areas in the world.
 
 ### Results
-![fyp8](/img/fyp8.jpg)
+![fyp8](/img/fyp8.JPG)
 A sample of the results showing the difference in the recommended tags based on the geolocation of the user.

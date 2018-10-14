@@ -8,7 +8,7 @@
     "First Category": ["doc4", "doc5"]
   },
   "projects": {
-    "Projects": ["projects", "docusaurus", "mikuscores", "mhxx", "rpgmaker", "runefactory",
+    "Projects": ["projects", "mhstories", "docusaurus", "mikuscores", "mhxx", "runefactory",
       "recipefinder", "imagerecommender", "pokeymon"]
   }
 }

@@ -199,13 +199,14 @@ const Introduction = props => (
     <div className="introduction">
 
       <div className="introductionText">
-        <h1>About myself</h1>
+        <h1>About</h1>
         <div className="introductionTextBody">
-          Just a simple software engineer from Singapore who is still in the early stages of her career.<br/>
-          I like learning new stuff and improving my programming skills through work or starting my own projects.<br/><br/>
+          This is a personal website for me to jot down learning experiences from my projects.<br/><br/>
+          
+          I'm just a simple software engineer from Singapore who is still in the early stages of my career.<br/>
+          I like learning new stuff and improving my programming skills through work or starting my own projects.<br/>
+          My two other passions in life are gaming and speed-solving 3x3 cubes.
 
-          My two other passions in life are gaming and speed-solving 3x3 cubes.<br/>
-          Feel free to contact me about new opportunites and any other stuff in general.
         </div>
       </div>
       <div className="imageContainer">
@@ -217,14 +218,8 @@ const Introduction = props => (
 
 const Projects = props => (
   <div className="projectShowcase">
-    <div className="projectShowcaseBody">
-      <h1>Projects</h1>
-      <div className="projectShowcaseCards">
-        <ProjectCard title="Rune Factory 4 Helper" image="/img/rf.jpg" link="/docs/runefactory.html"/>
-        <ProjectCard title="Miku Scores" image="/img/miku.jpg" link="mikuscores.md" link="/docs/mikuscores.html"/>
-        <ProjectCard title="View More" image="/img/more.jpg" link="/docs/projects.html"/>
-      </div>
-    </div>
+    <PageCard title="Projects" img="/img/projects.jpg" link="/docs/projects.html"></PageCard>
+    <PageCard title="Cubing" img="/img/cubing.jpg" link="/cubing.html"></PageCard>
   </div>
 );
 
@@ -238,6 +233,16 @@ class ProjectCard extends React.Component {
         </div>
       </a>
     );
+  }
+}
+
+class PageCard extends React.Component {
+  render() {
+    return (
+      <a href={this.props.link} className="pageCard" style={{backgroundImage: "url(" + this.props.img + ")"}}>
+        <div className="pageCardTitle">{this.props.title}</div>
+      </a>
+    )
   }
 }
 
